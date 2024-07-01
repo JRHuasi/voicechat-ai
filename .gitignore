@@ -1,0 +1,5 @@
+.routify
+.history
+.env
+node_modules
+.dist
